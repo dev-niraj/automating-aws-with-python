@@ -12,3 +12,4 @@ Python Script has the following features:
 
 - List bucket
 - List Contents of a bucket
+- Create and Set up Bucket
